@@ -1,189 +1,348 @@
 <div align="center">
 
-# Yogesh Mene
+<img src="assets/banner.gif" width="100%" alt="Banner"/>
 
-### Industrial IoT Engineer • Embedded Systems • Smart Infrastructure
+# 🕷️ Hi, I'm Yogesh Mene
 
-Building reliable Industrial IoT solutions that connect physical assets with intelligent software.
+### Industrial IoT Engineer | Embedded Systems | Smart Infrastructure
 
-<p>
-<a href="https://linkedin.com/in/yogesh-mene-875a7423a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yogeshmene00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://theiotguyyogesh.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+> *"Engineer by profession. Teacher by passion. Student for life."*
+
+<p align="center">
+
+<a href="https://theiotguyyogesh.online">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/yogesh-mene-875a7423a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yogeshmene00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Industrial+IoT+Engineer;Embedded+Systems+Developer;RFID+%7C+GPS+%7C+AI+Vision;Smart+Infrastructure+Builder;Building+Technology+That+Solves+Real+Problems"/>
 
 </div>
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I'm an **Industrial IoT Engineer** focused on designing scalable connected systems for industrial environments.
+```yaml
+Name: Yogesh Mene
 
-My work combines embedded firmware, industrial communication protocols, cloud infrastructure, enterprise integrations, and intelligent monitoring systems.
+Role:
+  Industrial IoT Engineer
 
-Currently working at **Metayb**, developing production-ready Industrial IoT solutions for manufacturing, logistics, fleet management, and smart infrastructure.
+Currently:
+  Metayb Pvt Ltd
+
+Location:
+  Chennai 🇮🇳
+
+Working On:
+  - Enterprise IoT
+  - Fleet Tracking
+  - RFID Automation
+  - Predictive Maintenance
+  - Industrial AI
+  - Smart Infrastructure
+
+Mission:
+  Transform industrial assets into intelligent connected systems.
+```
 
 ---
 
-# Engineering Expertise
+# 🚀 Engineering Journey
 
-### Industrial IoT
+```text
+🎓 Student
+      │
+      ▼
+👨‍🏫 IoT Trainer
+      │
+      ▼
+🏭 Industrial IoT Engineer
+      │
+      ▼
+🌍 India 🇮🇳 → Nigeria 🇳🇬 Deployments
+      │
+      ▼
+🚀 Building Enterprise IIoT Solutions
+```
 
-- Industrial Automation
-- Predictive Maintenance
-- Fleet Telematics
-- RFID Systems
-- GPS Tracking
-- Remote Monitoring
-- Industrial Dashboards
-- AI Vision Systems
+---
+
+# ⚙️ Tech Stack
 
 ### Embedded Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino"/>
+
+</p>
 
 - ESP32
 - STM32
 - ESP8266
 - Raspberry Pi
-- Arduino
+- FreeRTOS
 
-### Programming
+---
 
-- C
-- C++
-- Python
-- JavaScript
-- TypeScript
+### Backend
 
-### Protocols
+<p>
 
-- MQTT
-- Modbus RTU
-- RS485
-- UART
-- SPI
-- I2C
-- BLE
-- HTTP
-- REST APIs
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,firebase"/>
 
-### Cloud & Backend
+</p>
 
-- Flask
-- Node.js
-- Express
-- MongoDB
-- Firebase
-- Supabase
-- Vercel
+---
 
 ### Frontend
 
-- React
-- Next.js
-- Tailwind CSS
+<p>
 
----
-
-# Industrial Projects
-
-### Vehicle Tracking Platform
-
-Enterprise-grade GPS tracking platform with multi-tenant architecture, live tracking, trip history, geofencing, analytics, and fleet management.
-
----
-
-### RFID Workforce & Vehicle Management
-
-Automated identification platform integrating UHF RFID readers with enterprise systems for attendance, vehicle movement, and access control.
-
----
-
-### Predictive Maintenance System
-
-Real-time vibration and temperature monitoring using industrial sensors for early fault detection and predictive analytics.
-
----
-
-### AI Dashcam Platform
-
-Cloud-connected AI dashcam solution for commercial fleets with live monitoring, driver behaviour analytics, and event reporting.
-
----
-
-### Industrial Fire Detection
-
-AI-powered thermal monitoring system designed for early fire detection in industrial environments.
-
----
-
-### Moisture Inspection Automation
-
-Industrial Android application for automated moisture acquisition integrated with enterprise workflows.
-
----
-
-### Weighbridge Automation
-
-RFID-integrated weighbridge solution with ERP integration, local middleware, and automated vehicle processing.
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,flask,mongodb,firebase,git,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts"/>
 
 </p>
 
 ---
 
-# Current Focus
+### Industrial Communication
+
+```
+✔ MQTT
+✔ Modbus RTU
+✔ RS485
+✔ UART
+✔ SPI
+✔ I2C
+✔ BLE
+✔ HTTP
+✔ REST APIs
+✔ TCP/IP
+```
+
+---
+
+# 🏭 Featured Projects
+
+## 🚛 Multi-Tenant GPS Fleet Platform
+
+Enterprise GPS tracking system featuring
+
+- Live Tracking
+- Route Replay
+- Driver Behaviour
+- Geofencing
+- Fleet Analytics
+- SaaS Architecture
+
+---
+
+## 📡 RFID Workforce & Vehicle Tracking
+
+Industrial RFID ecosystem for
+
+- Workforce Attendance
+- Vehicle Movement
+- Access Control
+- Weighbridge Automation
+- ERP Integration
+
+---
+
+## ⚙ Predictive Maintenance
+
+Industrial machine monitoring using
+
+- Temperature
+- Vibration
+- FFT Analysis
+- Fault Detection
+- AI Insights
+
+---
+
+## 🔥 Industrial Fire Detection
+
+AI-powered thermal monitoring and intelligent fire alerting system for industrial environments.
+
+---
+
+## 🤖 Edge AI Vision
+
+Browser-based AI inference controlling embedded devices in real time.
+
+---
+
+## 📊 Weighbridge Automation
+
+RFID + Weight Indicator + Enterprise API
+
+Complete automation workflow for industrial logistics.
+
+---
+
+# 📈 Engineering Workflow
+
+```text
+          Sensors
+             │
+             ▼
+      Embedded Device
+             │
+             ▼
+      Edge Processing
+             │
+             ▼
+        MQTT / HTTP
+             │
+             ▼
+      Cloud Infrastructure
+             │
+             ▼
+        Database
+             │
+             ▼
+      Analytics Engine
+             │
+             ▼
+        Live Dashboard
+             │
+             ▼
+      Enterprise Systems
+```
+
+---
+
+# 🎯 Current Focus
 
 - Industrial Digital Twins
-- Edge AI
-- Smart Manufacturing
 - Predictive Analytics
+- AI Vision
+- Smart Manufacturing
+- Fleet Intelligence
+- Edge AI
 - Enterprise IoT
 - Industrial Automation
-- AI-powered Monitoring
-- Scalable IIoT Platforms
 
 ---
 
-# Engineering Philosophy
+# 🎮 Beyond Engineering
 
-> Build solutions that survive production, not just demonstrations.
+## 🕷 Spider-Man
 
-I believe reliable engineering comes from practical design, robust hardware, maintainable software, and scalable architectures that perform consistently in real industrial environments.
+> "With great power comes great responsibility."
+
+This quote reminds me that every system we deploy impacts real people and real operations.
 
 ---
 
-# GitHub Stats
+## ⛏ Minecraft
+
+Minecraft taught me something long before I became an engineer.
+
+Start with simple blocks.
+
+Keep improving.
+
+Automate repetitive work.
+
+Build something people can use.
+
+That's exactly how I approach Industrial IoT.
+
+---
+
+# 💭 Personal Philosophy
+
+```python
+class Yogesh:
+
+    role = "Industrial IoT Engineer"
+
+    previous_role = "IoT Trainer"
+
+    current_status = "Always Learning"
+
+    hobbies = [
+        "Spider-Man 🕷",
+        "Minecraft ⛏",
+        "Photography 📷",
+        "Coffee ☕"
+    ]
+
+    motto = (
+        "I once taught IoT to aspiring engineers.\n"
+        "Today, every deployment, every challenge, and every experience teaches me something new."
+    )
+
+    def build():
+        return "Turning industrial challenges into intelligent solutions."
+```
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# Connect
+# 🏆 Fun Facts
+
+🕷 Favorite Superhero → Spider-Man
+
+⛏ Favorite Game → Minecraft
+
+⚙ Favorite Hardware → ESP32 & STM32
+
+📡 Favorite Protocol → MQTT
+
+🌍 Dream → Build Industrial IoT solutions used worldwide
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+🌐 **Portfolio**  
+https://theiotguyyogesh.online
+
+💼 **LinkedIn**  
+https://linkedin.com/in/yogesh-mene-875a7423a
+
+📧 **Email**  
+yogeshmene00@gmail.com
 
 📍 Chennai, India
 
-🌐 https://theiotguyyogesh.online
+---
 
-💼 https://linkedin.com/in/yogesh-mene-875a7423a
+### ⭐ "Building technology that doesn't just connect devices, but creates meaningful impact."
 
-📧 yogeshmene00@gmail.com
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+
+</div>
