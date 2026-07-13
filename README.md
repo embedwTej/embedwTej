@@ -1,39 +1,51 @@
-# Hi, I'm Yogesh Mene 👋
+<div align="center">
 
-## Industrial IoT Engineer | Embedded Systems | Smart Infrastructure
+# Yogesh Mene
 
-I build industrial-grade IoT solutions that connect the physical world with intelligent software.
+### Industrial IoT Engineer • Embedded Systems • Smart Infrastructure
 
-My work spans from embedded firmware and industrial communication protocols to cloud platforms, dashboards, and enterprise integrations. I enjoy solving real-world engineering problems involving automation, remote monitoring, predictive maintenance, and connected infrastructure.
+Building reliable Industrial IoT solutions that connect physical assets with intelligent software.
 
-Currently working as an **Industrial IoT Engineer at Metayb, Chennai**, where I design and deploy production-ready IIoT solutions for industrial environments.
+<p>
+<a href="https://linkedin.com/in/yogesh-mene-875a7423a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yogeshmene00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://theiotguyyogesh.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+</p>
+
+</div>
 
 ---
 
-# 🚀 What I Do
+# About Me
 
-- Industrial IoT Solution Development
-- Embedded Firmware Development
+I'm an **Industrial IoT Engineer** focused on designing scalable connected systems for industrial environments.
+
+My work combines embedded firmware, industrial communication protocols, cloud infrastructure, enterprise integrations, and intelligent monitoring systems.
+
+Currently working at **Metayb**, developing production-ready Industrial IoT solutions for manufacturing, logistics, fleet management, and smart infrastructure.
+
+---
+
+# Engineering Expertise
+
+### Industrial IoT
+
 - Industrial Automation
-- RFID & GPS Tracking Systems
-- Predictive Maintenance Solutions
-- Edge Computing
-- AI-powered Monitoring Systems
-- Cloud-connected Embedded Devices
-- REST API & Backend Integration
-- Data Visualization Dashboards
-
----
-
-# 💻 Tech Stack
+- Predictive Maintenance
+- Fleet Telematics
+- RFID Systems
+- GPS Tracking
+- Remote Monitoring
+- Industrial Dashboards
+- AI Vision Systems
 
 ### Embedded Systems
 
 - ESP32
-- ESP8266
 - STM32
-- Arduino
+- ESP8266
 - Raspberry Pi
+- Arduino
 
 ### Programming
 
@@ -43,7 +55,7 @@ Currently working as an **Industrial IoT Engineer at Metayb, Chennai**, where I 
 - JavaScript
 - TypeScript
 
-### IoT & Communication
+### Protocols
 
 - MQTT
 - Modbus RTU
@@ -52,151 +64,126 @@ Currently working as an **Industrial IoT Engineer at Metayb, Chennai**, where I 
 - SPI
 - I2C
 - BLE
-- WiFi
-- HTTP/HTTPS
+- HTTP
 - REST APIs
 
-### Backend & Cloud
+### Cloud & Backend
 
+- Flask
 - Node.js
 - Express
-- Flask
 - MongoDB
-- Supabase
 - Firebase
+- Supabase
 - Vercel
 
 ### Frontend
 
 - React
 - Next.js
-- HTML
-- CSS
 - Tailwind CSS
 
-### Tools
+---
 
-- Git
-- GitHub
-- Docker
-- Postman
-- PlatformIO
-- Arduino IDE
-- STM32CubeIDE
-- VS Code
+# Industrial Projects
+
+### Vehicle Tracking Platform
+
+Enterprise-grade GPS tracking platform with multi-tenant architecture, live tracking, trip history, geofencing, analytics, and fleet management.
 
 ---
 
-# 🏭 Industrial Domains
+### RFID Workforce & Vehicle Management
 
-✔ Smart Factory
-
-✔ Vehicle Tracking
-
-✔ RFID Automation
-
-✔ Predictive Maintenance
-
-✔ Industrial Safety
-
-✔ Smart Utilities
-
-✔ Remote Asset Monitoring
-
-✔ Industrial Telemetry
-
-✔ AI Vision Systems
+Automated identification platform integrating UHF RFID readers with enterprise systems for attendance, vehicle movement, and access control.
 
 ---
 
-# Featured Projects
+### Predictive Maintenance System
 
-## RFID Workforce Tracking
-
-Industrial attendance and workforce tracking system using UHF RFID with cloud-based reporting and access control.
+Real-time vibration and temperature monitoring using industrial sensors for early fault detection and predictive analytics.
 
 ---
 
-## GPS Fleet Management Platform
+### AI Dashcam Platform
 
-Multi-tenant SaaS platform for live vehicle tracking, route history, geofencing, alerts, analytics, and fleet management.
-
----
-
-## Motor Predictive Maintenance
-
-Industrial monitoring solution that analyzes vibration and temperature to detect equipment faults before failure.
+Cloud-connected AI dashcam solution for commercial fleets with live monitoring, driver behaviour analytics, and event reporting.
 
 ---
 
-## AI Dashcam Monitoring
+### Industrial Fire Detection
 
-Cloud-connected AI dashcam system for commercial fleets featuring live monitoring, driver behavior analytics, and event reporting.
-
----
-
-## Industrial Fire Detection System
-
-AI-powered thermal monitoring and early warning solution for industrial environments.
+AI-powered thermal monitoring system designed for early fire detection in industrial environments.
 
 ---
 
-## Moisture Detection Automation
+### Moisture Inspection Automation
 
-Android-based moisture acquisition system integrated with enterprise workflows for automated quality inspection.
-
----
-
-## RFID Weighbridge Automation
-
-Automated weighbridge solution integrating RFID readers, weighbridge indicators, and enterprise databases.
+Industrial Android application for automated moisture acquisition integrated with enterprise workflows.
 
 ---
 
-## Smart Industrial Dashboards
+### Weighbridge Automation
 
-Real-time visualization platform for industrial sensors with live telemetry, alarms, historical analytics, and reporting.
+RFID-integrated weighbridge solution with ERP integration, local middleware, and automated vehicle processing.
 
 ---
 
-# Current Interests
+# Tech Stack
 
-- Industrial AI
-- Edge Intelligence
-- TinyML
-- Computer Vision
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,flask,mongodb,firebase,git,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# Current Focus
+
 - Industrial Digital Twins
-- IIoT Security
-- Fleet Telematics
+- Edge AI
+- Smart Manufacturing
 - Predictive Analytics
-- Industrial Cloud Platforms
+- Enterprise IoT
+- Industrial Automation
+- AI-powered Monitoring
+- Scalable IIoT Platforms
 
 ---
 
 # Engineering Philosophy
 
-> Build systems that survive real deployments, not just demos.
+> Build solutions that survive production, not just demonstrations.
 
-I believe great engineering combines reliable hardware, scalable software, and practical design. Every solution should be maintainable, efficient, and ready for production.
+I believe reliable engineering comes from practical design, robust hardware, maintainable software, and scalable architectures that perform consistently in real industrial environments.
 
 ---
 
 # GitHub Stats
 
-- Industrial IoT Projects
-- Embedded Systems
-- Open Source Contributions
-- Automation Tools
-- Experimental AI Projects
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
 
 ---
 
-# Let's Connect
-
-🌐 Portfolio: https://theiotguyyogesh.online
-
-💼 LinkedIn: https://linkedin.com/in/yogesh-mene-875a7423a
-
-📧 Email: yogeshmene00@gmail.com
+# Connect
 
 📍 Chennai, India
+
+🌐 https://theiotguyyogesh.online
+
+💼 https://linkedin.com/in/yogesh-mene-875a7423a
+
+📧 yogeshmene00@gmail.com
