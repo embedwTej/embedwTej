@@ -4,7 +4,7 @@
 
 ### Industrial IoT Engineer • Embedded Systems • Smart Infrastructure
 
-<img src="https://www.pngitem.com/pimgs/m/14-140993_spiderman-png-transparent-png.png" width="100%">
+<img src="https://www.pngitem.com/pimgs/m/14-140993_spiderman-png-transparent-png.png" width="30%">
 
 > **"With great power comes great responsibility."**
 >
