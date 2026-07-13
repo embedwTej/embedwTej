@@ -1,86 +1,202 @@
+# Hi, I'm Yogesh Mene 👋
 
-# Yogesh M
+## Industrial IoT Engineer | Embedded Systems | Smart Infrastructure
 
-**Industrial IoT (IIoT) Engineer | Smart Systems | Connected Infrastructure**
+I build industrial-grade IoT solutions that connect the physical world with intelligent software.
 
-I design and develop **industrial-grade IoT solutions** focused on automation, monitoring, and intelligent decision-making. My work involves building scalable systems that integrate sensors, edge devices, and cloud platforms to solve real-world operational challenges.
+My work spans from embedded firmware and industrial communication protocols to cloud platforms, dashboards, and enterprise integrations. I enjoy solving real-world engineering problems involving automation, remote monitoring, predictive maintenance, and connected infrastructure.
 
-Currently working at **Metayb, Chennai**, contributing to the development of connected systems and deployment-ready IoT solutions.
-
----
-
-## 🏭 Core Expertise
-
-* Industrial IoT System Design
-* Edge Device Integration & Data Acquisition
-* Real-time Monitoring & Automation Systems
-* Sensor Networks & Embedded Control Systems
-* Industrial Communication Protocols
-* Remote Device Management & Telemetry
+Currently working as an **Industrial IoT Engineer at Metayb, Chennai**, where I design and deploy production-ready IIoT solutions for industrial environments.
 
 ---
 
-## ⚙️ Key Technologies & Domains
+# 🚀 What I Do
 
-* Edge Computing & Embedded Systems
-* Industrial Automation & Control
-* Cloud Integration & IoT Platforms
-* Data Logging & Visualization Systems
-* Wireless Communication Architectures
-* AI-assisted Monitoring Systems
-
----
-
-## 🚀 Featured Work
-
-### 📡 RFID-Based Workforce Tracking System
-
-Developed an automated identification and attendance solution for industrial environments, enabling reliable workforce tracking and access control.
-
+- Industrial IoT Solution Development
+- Embedded Firmware Development
+- Industrial Automation
+- RFID & GPS Tracking Systems
+- Predictive Maintenance Solutions
+- Edge Computing
+- AI-powered Monitoring Systems
+- Cloud-connected Embedded Devices
+- REST API & Backend Integration
+- Data Visualization Dashboards
 
 ---
 
-### 🤖 Vision-Based Control System
+# 💻 Tech Stack
 
-Designed an AI-powered visual recognition system for triggering real-time actions in connected devices using browser-based inference and serial communication.
+### Embedded Systems
+
+- ESP32
+- ESP8266
+- STM32
+- Arduino
+- Raspberry Pi
+
+### Programming
+
+- C
+- C++
+- Python
+- JavaScript
+- TypeScript
+
+### IoT & Communication
+
+- MQTT
+- Modbus RTU
+- RS485
+- UART
+- SPI
+- I2C
+- BLE
+- WiFi
+- HTTP/HTTPS
+- REST APIs
+
+### Backend & Cloud
+
+- Node.js
+- Express
+- Flask
+- MongoDB
+- Supabase
+- Firebase
+- Vercel
+
+### Frontend
+
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- PlatformIO
+- Arduino IDE
+- STM32CubeIDE
+- VS Code
 
 ---
 
-### 🚗 Wireless Control & Telemetry System
+# 🏭 Industrial Domains
 
-Built a low-latency wireless control architecture for real-time device operation and monitoring, suitable for industrial automation use cases.
+✔ Smart Factory
 
----
+✔ Vehicle Tracking
 
-## 📊 Current Focus
+✔ RFID Automation
 
-* Scalable IIoT architecture for industrial deployments
-* Intelligent monitoring systems with predictive insights
-* Edge-to-cloud data pipelines
-* Smart infrastructure and automation solutions
+✔ Predictive Maintenance
 
----
+✔ Industrial Safety
 
-## 🧩 Engineering Approach
+✔ Smart Utilities
 
-* Focus on **reliability and deployment readiness**
-* Design systems with **real-world constraints in mind**
-* Prioritize **modular and scalable architectures**
-* Bridge the gap between **hardware systems and intelligent software**
+✔ Remote Asset Monitoring
+
+✔ Industrial Telemetry
+
+✔ AI Vision Systems
 
 ---
 
-## 📫 Connect
+# Featured Projects
 
-* LinkedIn: www.linkedin.com/in/yogesh-mene-875a7423a
-* Insta: https://www.instagram.com/tejm.__/
-* Mail: Yogeshmene00@Gmail.com
-* Portpholio: http://theiotguyyogesh.online/
-* Location: Chennai, India
+## RFID Workforce Tracking
+
+Industrial attendance and workforce tracking system using UHF RFID with cloud-based reporting and access control.
 
 ---
 
-## ⚡ Profile Summary
+## GPS Fleet Management Platform
 
-Industrial IoT Engineer with hands-on experience in building connected systems, automation solutions, and intelligent monitoring platforms. Passionate about transforming physical systems into smart, data-driven infrastructures.
+Multi-tenant SaaS platform for live vehicle tracking, route history, geofencing, alerts, analytics, and fleet management.
 
+---
+
+## Motor Predictive Maintenance
+
+Industrial monitoring solution that analyzes vibration and temperature to detect equipment faults before failure.
+
+---
+
+## AI Dashcam Monitoring
+
+Cloud-connected AI dashcam system for commercial fleets featuring live monitoring, driver behavior analytics, and event reporting.
+
+---
+
+## Industrial Fire Detection System
+
+AI-powered thermal monitoring and early warning solution for industrial environments.
+
+---
+
+## Moisture Detection Automation
+
+Android-based moisture acquisition system integrated with enterprise workflows for automated quality inspection.
+
+---
+
+## RFID Weighbridge Automation
+
+Automated weighbridge solution integrating RFID readers, weighbridge indicators, and enterprise databases.
+
+---
+
+## Smart Industrial Dashboards
+
+Real-time visualization platform for industrial sensors with live telemetry, alarms, historical analytics, and reporting.
+
+---
+
+# Current Interests
+
+- Industrial AI
+- Edge Intelligence
+- TinyML
+- Computer Vision
+- Industrial Digital Twins
+- IIoT Security
+- Fleet Telematics
+- Predictive Analytics
+- Industrial Cloud Platforms
+
+---
+
+# Engineering Philosophy
+
+> Build systems that survive real deployments, not just demos.
+
+I believe great engineering combines reliable hardware, scalable software, and practical design. Every solution should be maintainable, efficient, and ready for production.
+
+---
+
+# GitHub Stats
+
+- Industrial IoT Projects
+- Embedded Systems
+- Open Source Contributions
+- Automation Tools
+- Experimental AI Projects
+
+---
+
+# Let's Connect
+
+🌐 Portfolio: https://theiotguyyogesh.online
+
+💼 LinkedIn: https://linkedin.com/in/yogesh-mene-875a7423a
+
+📧 Email: yogeshmene00@gmail.com
+
+📍 Chennai, India
